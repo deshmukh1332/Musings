@@ -1,0 +1,5 @@
+1. Confluent is used for schema registry.
+
+it is a way in which data is send in byte format in kafka.
+
+the events from producer to consumer has specific schema structure. this structure is saved in schema registry. it maintains specification between the data structure between kafka
